@@ -1,0 +1,12 @@
+{
+  "containerDefinitions": [
+    {
+      "name": "nginx",
+      "image": "291988165192.dkr.ecr.us-east-1.amazonaws.com/nginx:TAGNAME",
+      "cpu": 300,
+      "memory": 100,
+      "essential": true
+    }
+  ],
+  "family": "nginx"
+}
