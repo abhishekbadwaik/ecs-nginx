@@ -1,0 +1,6 @@
+{
+    "cluster": "demo-cluster",
+    "service": "nginx-service",
+    "desiredCount" : 1,
+    "taskDefinition": "nginx"
+}
